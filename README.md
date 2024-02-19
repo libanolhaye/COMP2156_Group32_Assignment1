@@ -1,1 +1,2 @@
-## i love Devops assignment 1
+## Devops assignment 1
+by Liban Olhaye and Raisul Islam Mahee
